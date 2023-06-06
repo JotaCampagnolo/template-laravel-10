@@ -9,7 +9,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
-    @yield('content')
+    @yield('master-body')
     <!-- <script src="{{ asset('build/assets/app-0d91dc04.js') }}"></script> -->
 </body>
 </html>

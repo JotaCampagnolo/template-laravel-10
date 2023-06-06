@@ -1,1 +1,27 @@
 @import url('~bootstrap/css/bootstrap.min.css');
+@import url('~bootstrap-icons/bootstrap-icons.min.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100;200;300;400;500;600;700;800;900&family=Mrs+Saint+Delafield&display=swap');
+
+body {
+    background-color: #dde0e3;
+    font-family: 'Geologica', sans-serif;
+    font-weight: 300;
+    color: #555;
+}
+
+.font-100 {
+    font-weight: 100;
+}
+
+.font-200 {
+    font-weight: 200;
+}
+
+.font-300 {
+    font-weight: 300;
+}
+
+.font-400 {
+    font-weight: 400;
+}

@@ -12,7 +12,8 @@ export default defineConfig({
     resolve: {
         alias: {
             "@": "/resources/js",
-            "~bootstrap": path.resolve(__dirname, 'node_modules/bootstrap/dist')
+            "~bootstrap": path.resolve(__dirname, 'node_modules/bootstrap/dist'),
+            "~bootstrap-icons": path.resolve(__dirname, 'node_modules/bootstrap-icons/font')
         },
     },
 });
